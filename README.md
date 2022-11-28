@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+13470
+Fork on GitHub
+3544
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A student developer from India</h3>
 
@@ -13,6 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codeforces.com/profile/chirag.sept2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chirag.sept2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +38,28 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiggshiggs&show_icons=true&locale=en&layout=compact" alt="chiggshiggs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiggshiggs&" alt="chiggshiggs" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
