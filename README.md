@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiggshiggs&label=Profile%20views&color=0e75b6&style=flat" alt="chiggshiggs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiggshiggs" alt="chiggshiggs" /></a> </p>
 
 - 💻 I am currently in my sophomore year [studying Mathematics and Computing at](Indian Institute of Techonology (Varanasi))
 
