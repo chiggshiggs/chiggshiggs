@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django.**
 
-- 👯 I’m looking to collaborate on [frontend](projects.)
+- 👯 I’m looking to collaborate on frontend projects.
 
 - 📫 How to reach me **chirag.goel.mat21@itbhu.ac.in**
 
